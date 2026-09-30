@@ -22,13 +22,6 @@ I also practiced moving back in the directory structure using the `cd ..` comman
 
 ---
 
-## 📸 Proof of Work
-Screenshots of the executed commands and terminal outputs are included below as evidence of successful lab completion.
-
-![Lab Screenshot](screenshot.png)
-
----
-
 ## ✅ Result
 The lab was completed successfully, and I was able to navigate directories using both relative and absolute paths with confidence.
 
